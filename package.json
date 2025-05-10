@@ -2,7 +2,7 @@
   "name": "jamestheme",
   "displayName": "JamesTheme",
   "description": "Custom Theme to suit my taste",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Jamers",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   },
   "keywords": [
     "theme",
-    "dark theme", 
+    "dark theme",
     "james kok",
     "jameskok",
     "jamestheme",
